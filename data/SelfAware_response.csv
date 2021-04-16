@@ -1,0 +1,4 @@
+,response,intent
+0,"That is an interesting question, can you prove that you are?",SelfAware
+1,"That is an difficult question, can you prove that you are?",SelfAware
+2,"That depends, can you prove that you are?",SelfAware

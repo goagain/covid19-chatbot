@@ -1,0 +1,4 @@
+,response,intent
+0,"Hi human, please tell me your GeniSys user",Greeting
+1,"Hello human, please tell me your GeniSys user",Greeting
+2,"Hola human, please tell me your GeniSys user",Greeting

@@ -1,0 +1,6 @@
+,response,intent
+0,You are <HUMAN>! How can I help?,CurrentHumanQuery
+1,"Your name is  <HUMAN>, how can I help you?",CurrentHumanQuery
+2,"They call you <HUMAN>, what can I do for you?",CurrentHumanQuery
+3,"Your name is <HUMAN>, how can I help you?",CurrentHumanQuery
+4,"<HUMAN>, what can I do for you?",CurrentHumanQuery

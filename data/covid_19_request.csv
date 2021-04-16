@@ -1,0 +1,70 @@
+index,request,intent
+1,What is coronavirus,information
+2,What about coronavirus,information
+3,Coronavirus,information
+4,Covid-19,information
+5,Covid,information
+6,COVID,information
+7,What is novel coronavirus,information
+8,Coronavirus disease,information
+9,What is coronavirus disease,information
+10,Pneumonia,information
+11,Tell me about pneumonia,information
+12,About pneumonia,information
+13,What is pneumonia,information
+14,Symtoms of pneumonia,symtoms
+15,what about symtoms,symtoms
+16,Symptoms,symtoms
+17,what are symptoms like,symtoms
+18,What are the symtoms ,symtoms
+19,Coronavirus symtoms,symtoms
+20,Symtoms of coronavirus,symtoms
+21,Symtoms of covid-19,symtoms
+22,What are the symtoms of pneumonia,symtoms
+23,Most common symtoms,symtoms
+24,About symtoms,symtoms
+25,How do I prevent covid,prevention
+26,How do I prevent covid-19,prevention
+27,How can I avoid corona virus,prevention
+28,Prevention,prevention
+29,Prevention infection,prevention
+30,Slow transmission of covid-19,prevention
+31,prevent coronavirus disease,prevention
+32,How can I take precautions,prevention
+33,What precautions should I take,prevention
+34,Advice of precautions,prevention
+35,Prevent the spread of covid-19,prevention
+36,Prevent the spred of coronavirus,prevention
+37,What should I do to avoid covid-19,prevention
+38,Is vaccine available now,vaccine
+39,How can I get vaccine ,vaccine
+40,Vaccines,vaccine
+41,Vaccination,vaccine
+42,Vaccination registration,vaccine
+43,Vaccine information,vaccine
+44,How is the vaccine situation,vaccine
+45,Vaccine in toronto ,vaccine
+46,Can I get vaccinated,vaccine
+47,Vaccinated,vaccine
+48,Immune for corona virus,vaccine
+49,Immunization,vaccine
+50,Immune,vaccine
+51,How can I immune for coronavirus,vaccine
+52,About the vaccine,vaccine
+53,How to get vaccinated,vaccine
+54,City immunization task,vaccine
+55,Can I travel to Canada,travel
+56,Restriction measures,travel
+57,Travel measures of Canada,travel
+58,Enter Canada,travel
+59,Can I come into Canada,travel
+60,What is the qurantine police,travel
+61,Will I be qurantined if I enter Canada,travel
+62,Travel plan,travel
+63,Travelling ,travel
+64,Travel,travel
+65,Fly to Canada,travel
+66,Fight,travel
+67,What are the travel restrictions,travel
+68,Restriction,travel
+69,qurantine,travel

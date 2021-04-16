@@ -1,0 +1,4 @@
+,response,intent
+0,You can call me Geni,NameQuery
+1,You may call me Geni,NameQuery
+2,Call me Geni,NameQuery

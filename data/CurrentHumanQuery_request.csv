@@ -1,0 +1,8 @@
+,request,intent
+0,What is my name?,CurrentHumanQuery
+1,What do you call me?,CurrentHumanQuery
+2,Who do you think I am?,CurrentHumanQuery
+3,What do you think I am?,CurrentHumanQuery
+4,Who are you talking to?,CurrentHumanQuery
+5,What name do you call me by?,CurrentHumanQuery
+6,Tell me my name,CurrentHumanQuery

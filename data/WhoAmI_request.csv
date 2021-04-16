@@ -1,0 +1,7 @@
+,request,intent
+0,Can you see me?,WhoAmI
+1,Do you see me?,WhoAmI
+2,Can you see anyone in the camera?,WhoAmI
+3,Do you see anyone in the camera?,WhoAmI
+4,Identify me,WhoAmI
+5,Who am I please,WhoAmI

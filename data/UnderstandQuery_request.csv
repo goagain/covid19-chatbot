@@ -1,0 +1,7 @@
+,request,intent
+0,Do you understand what I am saying,UnderstandQuery
+1,Do you understand me,UnderstandQuery
+2,Do you know what I am saying,UnderstandQuery
+3,Do you get me,UnderstandQuery
+4,Comprendo,UnderstandQuery
+5,Know what I mean,UnderstandQuery

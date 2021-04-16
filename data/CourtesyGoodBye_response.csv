@@ -1,0 +1,4 @@
+,response,intent
+0,"No problem, goodbye",CourtesyGoodBye
+1,Not a problem! Have a nice day,CourtesyGoodBye
+2,Bye! Come back again soon.,CourtesyGoodBye

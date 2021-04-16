@@ -1,0 +1,8 @@
+,response,intent
+0,"Hello, I am great, how are you? Please tell me your GeniSys user",CourtesyGreeting
+1,"Hello, how are you? I am great thanks! Please tell me your GeniSys user",CourtesyGreeting
+2,"Hello, I am good thank you, how are you? Please tell me your GeniSys user",CourtesyGreeting
+3,"Hi, I am great, how are you? Please tell me your GeniSys user",CourtesyGreeting
+4,"Hi, how are you? I am great thanks! Please tell me your GeniSys user",CourtesyGreeting
+5,"Hi, I am good thank you, how are you? Please tell me your GeniSys user",CourtesyGreeting
+6,"Hi, good thank you, how are you? Please tell me your GeniSys user",CourtesyGreeting

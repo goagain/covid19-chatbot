@@ -1,0 +1,8 @@
+,request,intent
+0,What is the time?,TimeQuery
+1,What's the time?,TimeQuery
+2,Do you know what time it is?,TimeQuery
+3,Do you know the time?,TimeQuery
+4,Can you tell me the time?,TimeQuery
+5,Tell me what time it is?,TimeQuery
+6,Time,TimeQuery

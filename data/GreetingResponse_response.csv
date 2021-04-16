@@ -1,0 +1,6 @@
+,response,intent
+0,Great! Hi <HUMAN>! How can I help?,GreetingResponse
+1,"Good! Hi <HUMAN>, how can I help you?",GreetingResponse
+2,"Cool! Hello <HUMAN>, what can I do for you?",GreetingResponse
+3,"OK! Hola <HUMAN>, how can I help you?",GreetingResponse
+4,"OK! hi <HUMAN>, what can I do for you?",GreetingResponse
